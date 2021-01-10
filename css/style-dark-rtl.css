@@ -1870,12 +1870,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 ::-moz-selection {
-  background: #7fce8b;
+  background: #85372A;
   color: #ffffff;
 }
 
 ::selection {
-  background: #7fce8b;
+  background: #85372A;
   color: #ffffff;
 }
 
@@ -2735,7 +2735,7 @@ p {
 
 .feature .border-icon {
   font-size: 36px;
-  color: #7fce8b;
+  color: #85372A;
 }
 
 .feature:hover {
@@ -4302,7 +4302,7 @@ button:not(:disabled) {
 }
 
 .alert-primary {
-  background-color: #7fce8b;
+  background-color: #85372A;
   color: #ffffff;
   border-color: #85372A;
 }
